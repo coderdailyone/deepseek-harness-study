@@ -34,6 +34,7 @@ DeepSeek Harness（`dsh`）是 DeepSeek 开源的 agent harness，基于 Cordis 
 | [17 · 自动化接入面](docs/17-automation-surfaces.md) | ACP 只发已提交消息、stopReason 不装懂、SDK 的产品边界减法、Python 捆绑运行时分发 |
 | [18 · 小接缝巡礼](docs/18-small-seams-tour.md) | spill/telemetry/E2B/attachment/session-query/terminal 各自的一个设计点：同一套纪律的分形 |
 | [19 · PR 解剖案例](docs/19-anatomy-of-a-pr.md) | 一个 44 行安全修复如何铺满 15 个文件：制度的固定税与固定收益，含一个诚实的边界观察 |
+| [20 · Vendoring 与发布工程](docs/20-vendoring-and-release.md) | 源码 vendor 整个框架、18 条分歧台账、Landlock 仓内发布排演、access 按序列分级 |
 
 ## 方法说明
 
