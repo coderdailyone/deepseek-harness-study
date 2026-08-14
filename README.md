@@ -22,6 +22,7 @@ DeepSeek Harness（`dsh`）是 DeepSeek 开源的 agent harness，基于 Cordis 
 | [05 · 后台任务系统](docs/05-background-jobs.md) | run_in_background 与统一 jobs 运行时、完成通知唤醒空闲 agent 的投递设计（含对 Codex/Claude Code/Kimi 同类设计的官方对比） |
 | [06 · Subagent 接缝](docs/06-subagent-seam.md) | 六 provider 一接口：one-shot/continuable 双生命周期、委托策略钉死、结算投递顺序规则、真 Codex/Claude Code 产品后端的契约与证据分层 |
 | [07 · Compaction 与 Surface](docs/07-compaction-and-surface.md) | 不可变日志上的历史手术：surfaceOp 投影机制、免模型剪枝、KV 缓存复用的摘要调用、溢出恢复 |
+| [08 · 沙箱/审批/权限](docs/08-sandbox-approval-permission.md) | 内核裁决的拒绝信号、一次性升权重试、自带 ~300 行 C 的 Landlock 启动器、会话日志即策略存储 |
 
 ## 方法说明
 
