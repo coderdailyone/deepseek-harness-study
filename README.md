@@ -19,6 +19,7 @@ DeepSeek Harness（`dsh`）是 DeepSeek 开源的 agent harness，基于 Cordis 
 | [02 · 架构设计解读](docs/02-architecture.md) | Cordis 地基、三大支柱决策、组合系统，以及架构与 agent 开发方法的互相成就 |
 | [03 · 核心代码阅读笔记](docs/03-core-loop-notes.md) | agent-loop 三文件精读：生命周期工厂、ReAct 循环、并行工具调度器、日志投影收件箱 |
 | [04 · 源码跑通记录](docs/04-running-from-source.md) | 从 clone 到 headless/Web UI 跑通的完整过程与四个坑的解法（含无 root 环境的 node-pty 绕法） |
+| [05 · 后台任务系统](docs/05-background-jobs.md) | run_in_background 与统一 jobs 运行时、完成通知唤醒空闲 agent 的投递设计（含对 Codex/Claude Code/Kimi 同类设计的官方对比） |
 
 ## 方法说明
 
