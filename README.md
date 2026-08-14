@@ -13,6 +13,8 @@ DeepSeek Harness（`dsh`）是 DeepSeek 开源的 agent harness，基于 Cordis 
 
 ## 目录
 
+全系列 22 篇已完结。若只读三篇，推荐 01（方法论）、08（沙箱档案精读）、13（可迁移原则清单）。
+
 | 文档 | 内容 |
 |---|---|
 | [01 · Agent 开发方法论](docs/01-agent-development-methodology.md) | 他们怎么用 Codex/Claude Code 造出这个项目：四层制度、门禁清单、统计证据 |
@@ -36,6 +38,7 @@ DeepSeek Harness（`dsh`）是 DeepSeek 开源的 agent harness，基于 Cordis 
 | [19 · PR 解剖案例](docs/19-anatomy-of-a-pr.md) | 一个 44 行安全修复如何铺满 15 个文件：制度的固定税与固定收益，含一个诚实的边界观察 |
 | [20 · Vendoring 与发布工程](docs/20-vendoring-and-release.md) | 源码 vendor 整个框架、18 条分歧台账、Landlock 仓内发布排演、access 按序列分级 |
 | [21 · 门禁与生成器机器](docs/21-gates-and-generators.md) | 124 个脚本的版图；两个立传门禁：README 强制"模型体验"三小节、强制承认至少一条局限 |
+| [22 · Examples 与 Git 工作流](docs/22-examples-and-git-workflow.md) | 组合作为被测一等产物、GitHub 原生 stack 纪律、系列收官语 |
 
 ## 方法说明
 
