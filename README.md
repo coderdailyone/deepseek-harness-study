@@ -26,6 +26,7 @@ DeepSeek Harness（`dsh`）是 DeepSeek 开源的 agent harness，基于 Cordis 
 | [09 · LLM 接缝](docs/09-llm-seam.md) | 双真适配器验证中立词表、失败事实与重试策略分离、单层拥有可见尝试、User-Agent 归因的标准调查 |
 | [10 · 测试策略](docs/10-testing-strategy.md) | 五层测试塔："验证世界而非自我报告"、fail-before 纪律、不配给真 API 测试、同 PR snapshot 制度 |
 | [11 · Host/Client 架构](docs/11-host-client-architecture.md) | 双编译面的根因、Typert 类型驱动 RPC 网关、SRC 开发回退不降级校验、Chat 节点的可回放纪律 |
+| [12 · 缺陷学](docs/12-defect-taxonomy.md) | 七条防御模式规则 + 四篇 postmortem 的执行摘要与它们各自催生的守卫 |
 
 ## 方法说明
 
