@@ -24,6 +24,7 @@ DeepSeek Harness（`dsh`）是 DeepSeek 开源的 agent harness，基于 Cordis 
 | [07 · Compaction 与 Surface](docs/07-compaction-and-surface.md) | 不可变日志上的历史手术：surfaceOp 投影机制、免模型剪枝、KV 缓存复用的摘要调用、溢出恢复 |
 | [08 · 沙箱/审批/权限](docs/08-sandbox-approval-permission.md) | 内核裁决的拒绝信号、一次性升权重试、自带 ~300 行 C 的 Landlock 启动器、会话日志即策略存储 |
 | [09 · LLM 接缝](docs/09-llm-seam.md) | 双真适配器验证中立词表、失败事实与重试策略分离、单层拥有可见尝试、User-Agent 归因的标准调查 |
+| [10 · 测试策略](docs/10-testing-strategy.md) | 五层测试塔："验证世界而非自我报告"、fail-before 纪律、不配给真 API 测试、同 PR snapshot 制度 |
 
 ## 方法说明
 
