@@ -32,6 +32,7 @@ DeepSeek Harness（`dsh`）是 DeepSeek 开源的 agent harness，基于 Cordis 
 | [15 · 驾驶层](docs/15-goals-plan-skills-hooks.md) | Goal 的执行时权威认证、Plan Mode 的 KV 缓存约束、Skills 分层注册表、竞品 Hook 协议桥 |
 | [16 · 双语文档系统](docs/16-bilingual-docs-system.md) | blob 哈希配对记录、GC 免疫快照 ref、fail-closed 自研 merge driver、结构签名与术语表治理 |
 | [17 · 自动化接入面](docs/17-automation-surfaces.md) | ACP 只发已提交消息、stopReason 不装懂、SDK 的产品边界减法、Python 捆绑运行时分发 |
+| [18 · 小接缝巡礼](docs/18-small-seams-tour.md) | spill/telemetry/E2B/attachment/session-query/terminal 各自的一个设计点：同一套纪律的分形 |
 
 ## 方法说明
 
