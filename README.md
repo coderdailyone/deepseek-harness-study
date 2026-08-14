@@ -29,6 +29,7 @@ DeepSeek Harness（`dsh`）是 DeepSeek 开源的 agent harness，基于 Cordis 
 | [12 · 缺陷学](docs/12-defect-taxonomy.md) | 七条防御模式规则 + 四篇 postmortem 的执行摘要与它们各自催生的守卫 |
 | [13 · 综合](docs/13-lessons-for-harness-builders.md) | 全系列提炼：给 harness 建造者的 20 条可迁移原则（状态/边界/失败/安全/工程过程） |
 | [14 · Code Mode 与工作流](docs/14-code-mode-and-workflows.md) | 模型写 TypeScript 调工具：展示与授权分离、敌对对端的 worker 协议、Ralph 固定迭代工作流 |
+| [15 · 驾驶层](docs/15-goals-plan-skills-hooks.md) | Goal 的执行时权威认证、Plan Mode 的 KV 缓存约束、Skills 分层注册表、竞品 Hook 协议桥 |
 
 ## 方法说明
 
