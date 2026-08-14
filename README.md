@@ -33,6 +33,7 @@ DeepSeek Harness（`dsh`）是 DeepSeek 开源的 agent harness，基于 Cordis 
 | [16 · 双语文档系统](docs/16-bilingual-docs-system.md) | blob 哈希配对记录、GC 免疫快照 ref、fail-closed 自研 merge driver、结构签名与术语表治理 |
 | [17 · 自动化接入面](docs/17-automation-surfaces.md) | ACP 只发已提交消息、stopReason 不装懂、SDK 的产品边界减法、Python 捆绑运行时分发 |
 | [18 · 小接缝巡礼](docs/18-small-seams-tour.md) | spill/telemetry/E2B/attachment/session-query/terminal 各自的一个设计点：同一套纪律的分形 |
+| [19 · PR 解剖案例](docs/19-anatomy-of-a-pr.md) | 一个 44 行安全修复如何铺满 15 个文件：制度的固定税与固定收益，含一个诚实的边界观察 |
 
 ## 方法说明
 
