@@ -28,6 +28,7 @@ DeepSeek Harness（`dsh`）是 DeepSeek 开源的 agent harness，基于 Cordis 
 | [11 · Host/Client 架构](docs/11-host-client-architecture.md) | 双编译面的根因、Typert 类型驱动 RPC 网关、SRC 开发回退不降级校验、Chat 节点的可回放纪律 |
 | [12 · 缺陷学](docs/12-defect-taxonomy.md) | 七条防御模式规则 + 四篇 postmortem 的执行摘要与它们各自催生的守卫 |
 | [13 · 综合](docs/13-lessons-for-harness-builders.md) | 全系列提炼：给 harness 建造者的 20 条可迁移原则（状态/边界/失败/安全/工程过程） |
+| [14 · Code Mode 与工作流](docs/14-code-mode-and-workflows.md) | 模型写 TypeScript 调工具：展示与授权分离、敌对对端的 worker 协议、Ralph 固定迭代工作流 |
 
 ## 方法说明
 
