@@ -1,4 +1,16 @@
-# DeepSeek Harness (dsh) 研究笔记
+<p align="center">
+  <img src="assets/banner.svg" alt="deepseek-harness-study — 22 篇 dsh 深读笔记" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%E7%AC%94%E8%AE%B0-22%20%E7%AF%87%E5%AE%8C%E7%BB%93-a78bfa" alt="22 篇完结">
+  <a href="https://github.com/deepseek-ai/deepseek-harness"><img src="https://img.shields.io/badge/%E7%A0%94%E7%A9%B6%E5%AF%B9%E8%B1%A1-dsh%20%4047f9438-6d28d9" alt="研究对象"></a>
+  <a href="https://github.com/deepseek-ai/deepseek-harness/discussions/1547"><img src="https://img.shields.io/badge/dsh%20Discussions-%231547-fbbf24" alt="社区讨论"></a>
+</p>
+
+<p align="center">
+  <a href="#这是什么">这是什么</a> · <a href="#目录">目录</a> · <a href="#方法说明">方法</a>
+</p>
 
 对 [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) 的架构与工程方法研究。
 

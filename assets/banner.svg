@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-label="deepseek-harness-study — 22 篇 dsh 深读笔记：agent-first 方法论 · 架构奠基决策 · 核心代码精读">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2e1065"/>
+      <stop offset="1" stop-color="#4c1d95"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#fbbf24"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+
+  <g transform="translate(70,60)">
+    <rect width="180" height="180" rx="16" fill="#a78bfa" opacity="0.10"/>
+    <rect width="180" height="180" rx="16" fill="none" stroke="#a78bfa" stroke-width="2"/>
+    <path d="M90 46 C72 32 48 28 32 32 L32 140 C48 136 72 140 90 152 C108 140 132 136 148 140 L148 32 C132 28 108 32 90 46 Z" fill="none" stroke="url(#accent)" stroke-width="7" stroke-linejoin="round"/>
+    <line x1="90" y1="46" x2="90" y2="152" stroke="url(#accent)" stroke-width="5"/>
+    <line x1="46" y1="58" x2="76" y2="55" stroke="#c4b5fd" stroke-width="3" opacity="0.7"/>
+    <line x1="46" y1="76" x2="76" y2="73" stroke="#c4b5fd" stroke-width="3" opacity="0.7"/>
+    <line x1="46" y1="94" x2="76" y2="91" stroke="#c4b5fd" stroke-width="3" opacity="0.7"/>
+    <line x1="104" y1="55" x2="134" y2="58" stroke="#fcd34d" stroke-width="3" opacity="0.7"/>
+    <line x1="104" y1="73" x2="134" y2="76" stroke="#fcd34d" stroke-width="3" opacity="0.7"/>
+    <line x1="104" y1="91" x2="134" y2="94" stroke="#fcd34d" stroke-width="3" opacity="0.7"/>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace">
+    <text x="310" y="122" font-size="50" font-weight="700" fill="#f8fafc">deepseek-harness-study</text>
+  </g>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">
+    <text x="310" y="166" font-size="23" fill="#cbd5e1">22 篇 dsh 深读笔记：agent-first 方法论 · 架构奠基决策 · 核心代码精读</text>
+    <text x="310" y="200" font-size="19" fill="#94a3b8">A 22-note deep study of the DeepSeek Harness — methodology, architecture, source walk-throughs.</text>
+  </g>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="16">
+    <rect x="310" y="226" width="202" height="34" rx="17" fill="none" stroke="#6d28d9" stroke-width="1.5"/>
+    <text x="330" y="248" fill="#34d399">✓</text>
+    <text x="350" y="248" fill="#ddd6fe">22 notes, complete</text>
+    <rect x="528" y="226" width="268" height="34" rx="17" fill="none" stroke="#6d28d9" stroke-width="1.5"/>
+    <text x="548" y="248" fill="#34d399">✓</text>
+    <text x="568" y="248" fill="#ddd6fe">methodology + architecture</text>
+    <rect x="812" y="226" width="194" height="34" rx="17" fill="none" stroke="#6d28d9" stroke-width="1.5"/>
+    <text x="832" y="248" fill="#34d399">✓</text>
+    <text x="852" y="248" fill="#ddd6fe">pinned to 47f9438</text>
+  </g>
+</svg>
